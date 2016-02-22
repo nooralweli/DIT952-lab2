@@ -8,7 +8,7 @@ Eran lösning från Lab 1 är nu Model-delen av denna MVC-lösning ni ska bygga.
 Se till att noga läsa igenom instruktionerna och att ni följer de regler och krav som labbdokumentet föreskriver. Börja med att kolla igenom hela labbdokumentet och se vad som krävs för att få godkänt samt att ni laddar ner de filer som krävs.
 Koden som skrivs och godkänns i denna lab kommer att användas till de senare delarna.
 
-Börja med att kolla på repot https://github.com/niklasbroberg/DIT952-lab1 där ska ni hitta detta lab pm samt nya filer.
+Börja med att kolla på repot https://github.com/niklasbroberg/DIT952-lab2 där ska ni hitta detta lab pm samt nya filer.
 Notera att ni kommer behöva eran färdiga lösning från Lab 1.
 
 Se till att ni får med "pics" mappen, bilderna och de nya java-filer ni ser i repot.
